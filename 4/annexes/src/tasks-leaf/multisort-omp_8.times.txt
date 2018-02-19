@@ -1,0 +1,4 @@
+Initialization time in seconds: 0.801985
+Multisort execution time: 3.423758
+Check sorted data execution time: 0.041395
+Multisort program finished

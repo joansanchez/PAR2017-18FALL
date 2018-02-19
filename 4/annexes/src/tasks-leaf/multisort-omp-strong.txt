@@ -1,0 +1,154 @@
+Executing multisort sequentially
+
+Initialization time in seconds: 0.801070
+Multisort execution time: 5.737840
+Check sorted data execution time: 0.038664
+Multisort program finished
+
+
+ELAPSED TIME AVERAGE OF 1 EXECUTIONS =6.59000000000000000000
+MULTISORT TIME AVERAGE OF 1 EXECUTIONS =5.73784000000000000000
+
+
+Executing multisort-omp in parallel with 1 threads
+
+Initialization time in seconds: 0.799370
+Multisort execution time: 5.744306
+Check sorted data execution time: 0.038709
+Multisort program finished
+
+
+ELAPSED TIME AVERAGE OF 1 EXECUTIONS =6.60000000000000000000
+MULTISORT TIME AVERAGE OF 1 EXECUTIONS =5.74430600000000000000
+
+
+Executing multisort-omp in parallel with 2 threads
+
+Initialization time in seconds: 0.800971
+Multisort execution time: 3.551556
+Check sorted data execution time: 0.040901
+Multisort program finished
+
+
+ELAPSED TIME AVERAGE OF 1 EXECUTIONS =4.48000000000000000000
+MULTISORT TIME AVERAGE OF 1 EXECUTIONS =3.55155600000000000000
+
+
+Executing multisort-omp in parallel with 3 threads
+
+Initialization time in seconds: 0.798479
+Multisort execution time: 3.079503
+Check sorted data execution time: 0.040936
+Multisort program finished
+
+
+ELAPSED TIME AVERAGE OF 1 EXECUTIONS =3.95000000000000000000
+MULTISORT TIME AVERAGE OF 1 EXECUTIONS =3.07950300000000000000
+
+
+Executing multisort-omp in parallel with 4 threads
+
+Initialization time in seconds: 0.802762
+Multisort execution time: 2.363146
+Check sorted data execution time: 0.041225
+Multisort program finished
+
+
+ELAPSED TIME AVERAGE OF 1 EXECUTIONS =3.22000000000000000000
+MULTISORT TIME AVERAGE OF 1 EXECUTIONS =2.36314600000000000000
+
+
+Executing multisort-omp in parallel with 5 threads
+
+Initialization time in seconds: 0.798833
+Multisort execution time: 1.954071
+Check sorted data execution time: 0.040877
+Multisort program finished
+
+
+ELAPSED TIME AVERAGE OF 1 EXECUTIONS =2.80000000000000000000
+MULTISORT TIME AVERAGE OF 1 EXECUTIONS =1.95407100000000000000
+
+
+Executing multisort-omp in parallel with 6 threads
+
+Initialization time in seconds: 0.798768
+Multisort execution time: 1.968554
+Check sorted data execution time: 0.039626
+Multisort program finished
+
+
+ELAPSED TIME AVERAGE OF 1 EXECUTIONS =2.82000000000000000000
+MULTISORT TIME AVERAGE OF 1 EXECUTIONS =1.96855400000000000000
+
+
+Executing multisort-omp in parallel with 7 threads
+
+Initialization time in seconds: 0.802878
+Multisort execution time: 1.967355
+Check sorted data execution time: 0.042046
+Multisort program finished
+
+
+ELAPSED TIME AVERAGE OF 1 EXECUTIONS =2.82000000000000000000
+MULTISORT TIME AVERAGE OF 1 EXECUTIONS =1.96735500000000000000
+
+
+Executing multisort-omp in parallel with 8 threads
+
+Initialization time in seconds: 0.798885
+Multisort execution time: 1.990489
+Check sorted data execution time: 0.039989
+Multisort program finished
+
+
+ELAPSED TIME AVERAGE OF 1 EXECUTIONS =2.85000000000000000000
+MULTISORT TIME AVERAGE OF 1 EXECUTIONS =1.99048900000000000000
+
+
+Executing multisort-omp in parallel with 9 threads
+
+Initialization time in seconds: 0.801960
+Multisort execution time: 1.974579
+Check sorted data execution time: 0.043386
+Multisort program finished
+
+
+ELAPSED TIME AVERAGE OF 1 EXECUTIONS =3.00000000000000000000
+MULTISORT TIME AVERAGE OF 1 EXECUTIONS =1.97457900000000000000
+
+
+Executing multisort-omp in parallel with 10 threads
+
+Initialization time in seconds: 0.800330
+Multisort execution time: 2.049844
+Check sorted data execution time: 0.040766
+Multisort program finished
+
+
+ELAPSED TIME AVERAGE OF 1 EXECUTIONS =2.92000000000000000000
+MULTISORT TIME AVERAGE OF 1 EXECUTIONS =2.04984400000000000000
+
+
+Executing multisort-omp in parallel with 11 threads
+
+Initialization time in seconds: 0.799064
+Multisort execution time: 2.009465
+Check sorted data execution time: 0.041630
+Multisort program finished
+
+
+ELAPSED TIME AVERAGE OF 1 EXECUTIONS =3.07000000000000000000
+MULTISORT TIME AVERAGE OF 1 EXECUTIONS =2.00946500000000000000
+
+
+Executing multisort-omp in parallel with 12 threads
+
+Initialization time in seconds: 0.801601
+Multisort execution time: 2.089430
+Check sorted data execution time: 0.042554
+Multisort program finished
+
+
+ELAPSED TIME AVERAGE OF 1 EXECUTIONS =2.95000000000000000000
+MULTISORT TIME AVERAGE OF 1 EXECUTIONS =2.08943000000000000000
